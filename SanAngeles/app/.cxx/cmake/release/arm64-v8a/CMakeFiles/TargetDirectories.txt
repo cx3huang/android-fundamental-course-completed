@@ -1,3 +1,0 @@
-C:/Users/chels/AndroidStudioProjects/SanAngeles/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/sanangeles.dir
-C:/Users/chels/AndroidStudioProjects/SanAngeles/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
-C:/Users/chels/AndroidStudioProjects/SanAngeles/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir

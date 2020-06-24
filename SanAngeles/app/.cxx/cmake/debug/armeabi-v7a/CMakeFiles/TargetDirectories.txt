@@ -1,3 +1,0 @@
-C:/Users/chels/AndroidStudioProjects/SanAngeles/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/sanangeles.dir
-C:/Users/chels/AndroidStudioProjects/SanAngeles/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
-C:/Users/chels/AndroidStudioProjects/SanAngeles/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

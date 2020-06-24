@@ -1,5 +1,0 @@
-ninja: Entering directory `C:\Users\chels\AndroidStudioProjects\SanAngeles\app\.cxx\cmake\debug\x86'
-[1/4] Building C object CMakeFiles/sanangeles.dir/importgl.c.o
-[2/4] Building C object CMakeFiles/sanangeles.dir/demo.c.o
-[3/4] Building C object CMakeFiles/sanangeles.dir/app-android.c.o
-[4/4] Linking C shared library C:\Users\chels\AndroidStudioProjects\SanAngeles\app\build\intermediates\cmake\debug\obj\x86\libsanangeles.so

@@ -1,0 +1,7 @@
+Executable : C:\Users\chels\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\chels\AndroidStudioProjects\SanAngeles\app\.cxx\cmake\debug\x86
+sanangeles
+jvmArgs : 
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NewWordActivity"
+    android:background="@color/colorScreenBackground"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <EditText
+        style="@style/text_view_style"
+        android:id="@+id/edit_word"
+        android:hint="@string/hint_word"
+        android:inputType="textAutoComplete" />
+
+    <Button
+        style="@style/text_view_style"
+        android:id="@+id/button_save"
+        android:text="@string/button_save" />
+</LinearLayout>
